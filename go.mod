@@ -15,7 +15,7 @@ require (
         github.com/kataras/survey v2
         github.com/klauspost/compress v1.2.1
         github.com/microcosm-cc/bluemonday
-        gopkg.in/russross/blackfriday v2
+        gopkg.in/russross/blackfriday
         github.com/ryanuber/columnize
         github.com/iris-contrib/go.uuid v2
         github.com/valyala/bytebufferpool
